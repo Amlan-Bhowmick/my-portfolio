@@ -1,0 +1,70 @@
+.about {
+    position: relative;
+    background-color: rgb(216, 245, 245);
+}
+
+.about h3 {
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+.about h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.about h1 span {
+    color: #ff014f;
+}
+
+.about h2 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #0b0b01;
+}
+
+.about h2 span {
+    color: black;
+}
+
+.about p {
+    color: #878e99;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+.about_btn {
+    margin-top: 20%;
+}
+
+.about_btn h4 {
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #43474b;
+    font-size: 15px;
+    margin: 30px 0 30px 0;
+}
+
+.about_btn button {
+    margin-right: 30px;
+}
+
+.about_btn i {
+    font-size: 20px;
+}
+
+.my-pic {
+    background: linear-gradient(145deg, #6594b3, #ffffff);
+    box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+    border-radius: 10px;
+    height: 510px;
+    margin-top: 20%;
+}
+
+.my-pic img {
+    position: absolute;
+    top: 10px;
+    right: 10%;
+    width: 560px;
+}
